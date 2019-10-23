@@ -1,0 +1,23 @@
+d : 5.0
+Mean NB : 96.59
+SD NB : 1.2268999999999983
+Mean KNN : 77.91
+SD KNN :6.3269000000000055
+t : 35.195598809237325
+0.02282395777600003
+3.3906079363265365E-4
+DOF : 67.31523728080468
+Null Hypothesis: Ho: µ1-µ2 = d
+Alternative Hypothesis: Ha: µ1-µ2 < d
+For Alpha : 0.005
+----------------------------
+Rounded DOF : 67
+Accepted : Alternative Hypothesis: Ha: µ1-µ2 < d
+For Alpha : 0.01
+----------------------------
+Rounded DOF : 67
+Accepted : Alternative Hypothesis: Ha: µ1-µ2 < d
+For Alpha : 0.05
+----------------------------
+Rounded DOF : 67
+Accepted : Alternative Hypothesis: Ha: µ1-µ2 < d
